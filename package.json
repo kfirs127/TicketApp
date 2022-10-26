@@ -1,0 +1,11 @@
+{
+  "name": "support-desk",
+  "version": "1.0.0",
+  "description": "support ticket app",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Backend/Server.js"
+  },
+  "author": "Kfir Sofer",
+  "license": "MIT"
+}
